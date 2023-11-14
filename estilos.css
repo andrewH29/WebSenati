@@ -1,0 +1,72 @@
+h1{
+    color: aqua;
+
+}
+
+.div-main{
+    display: flex;
+    width: 50%;
+    height: 50%;
+    justify-content: space-between;
+}
+
+.parrafo{
+
+    color: blue;
+
+}
+
+.img-web{
+    
+    border-radius: 1px;
+    
+
+
+
+}
+
+.div-1{
+    margin: 20px;
+    border: 1px solid red;
+
+}
+
+.div-2{
+    margin: 20px;
+    border: 1px solid black;
+}
+
+.div-3{
+    margin: 20px;
+    border: 1px solid blue;
+}
+
+
+.div-main2{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.caja-1{
+    border: 1px solid gray;
+    margin: 10px;
+    padding: 20px;    
+
+}
+
+.caja-2{
+    border:1px solid green;
+    margin: 10px;
+    padding: 20px;
+    cursor: pointer;
+}
+.caja-2:hover{
+    color: aqua;
+
+
+}
+.caja-1:hover{
+    color: green;
+    font-size: medium;
+}
